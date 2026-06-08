@@ -13,6 +13,7 @@ With experience across **enterprise transformation initiatives, business analysi
 
 ## 🚀 About Me
 
+- Senior Business/Product professional transitioning into hands-on AI Product Leadership
 - AI & GenAI enthusiast focused on solving real-world business problems  
 - Product & Business Analysis professional with experience in enterprise digital transformation  
 - Passionate about building **AI-powered products**, automation solutions, and intelligent workflows  

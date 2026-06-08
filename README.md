@@ -138,23 +138,6 @@ A **behavioral product concept** introducing a *Thoughtful Reply Indicator* to r
 
 ---
 
-## 5. Enterprise Digital Transformation Programs (Energy & Mobility)
-
-**Problem Solved:**  
-Legacy systems and fragmented business workflows reduce operational efficiency.
-
-### Key Contributions
-✅ Fuel retail modernization initiatives  
-✅ LNG enablement across European markets  
-✅ Payment and dispenser integration  
-✅ Site modernization & rollout planning  
-✅ Go-live readiness activities
-
-### Skills Demonstrated
-`Business Analysis` `Digital Transformation` `Agile Delivery` `Stakeholder Management`
-
----
-
 ## 🧠 Core Competencies
 
 ### Product & Business

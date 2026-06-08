@@ -1,186 +1,255 @@
 # Daware29
 Hello world this is my profile
 ```md
-# Hi, I'm Pranjal Daware 👋
+```md
+<div align="center">
 
-### AI | Product Management | Digital Transformation | Business Analysis
+# Pranjal Daware
 
-I bridge the gap between **business strategy, product thinking, and AI-led digital transformation**.
+### AI Product Management | Digital Transformation | Business Analysis | Enterprise Strategy
 
-With experience across **enterprise transformation initiatives, business analysis, product strategy, and GenAI-powered solutions**, I focus on solving complex business problems using technology, customer-centric thinking, and data-driven decision-making.
+*Bridging Business Strategy, Product Thinking & AI-led Transformation*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjal%20Daware-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranjaldaware)
+[![AI Product Management](https://img.shields.io/badge/AI-Product%20Management-black?style=for-the-badge)](#)
+[![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-success?style=for-the-badge)](#)
+[![Business Analysis](https://img.shields.io/badge/Business-Analysis-informational?style=for-the-badge)](#)
 
-## 🚀 About Me
-
-- Senior Business/Product professional transitioning into hands-on AI Product Leadership
-- AI & GenAI enthusiast focused on solving real-world business problems  
-- Product & Business Analysis professional with experience in enterprise digital transformation  
-- Passionate about building **AI-powered products**, automation solutions, and intelligent workflows  
-- Interested in **AI Product Management, Product Strategy, Digital Transformation, and Consulting**  
-- Exploring how **Generative AI transforms enterprise decision-making**
+</div>
 
 ---
 
-## 💡 What I Work On
+# Executive Summary
 
-### AI & GenAI Solutions
-Building practical AI solutions focused on:
+I help organizations solve complex business problems through **AI-powered product thinking, digital transformation, and business analysis**.
 
-- Healthcare & medicine intelligence
-- Intelligent business assistants
-- AI-powered recommendation systems
-- Workflow automation
-- Enterprise productivity solutions
+With experience across **enterprise transformation programs, product strategy, stakeholder management, and Generative AI solutions**, I focus on building products and intelligent systems that drive measurable business value.
 
-### Product Management & Business Analysis
+My current focus is at the intersection of:
 
-Experienced in:
-
-- Product Discovery & Requirement Engineering  
-- User Story Creation & Backlog Management  
-- Process Transformation & Business Optimization  
-- Stakeholder Management  
-- Agile Product Delivery  
-- Digital Transformation Programs
+- **AI Product Management**
+- **Enterprise Digital Transformation**
+- **Business Analysis**
+- **Product Strategy**
+- **Generative AI Applications**
 
 ---
 
-# 🏆 Featured Projects
+# Areas of Focus
 
-## 1. AI Medicine Intelligence Platform
+### AI & Generative AI
+- Intelligent assistants
+- RAG-powered systems
+- Enterprise AI workflows
+- Healthcare AI solutions
+- AI-driven recommendation engines
 
-**Problem Solved:**  
-Medicine information is often too technical for consumers to understand. Comparing alternatives, prices, or drug interactions is difficult without expert support.
+### Product Management & Strategy
+- Product discovery
+- User story mapping
+- Problem framing
+- Product requirement definition
+- Product operating models
 
-### What I Built
-An **AI-powered medicine intelligence platform** focused on making healthcare information patient-friendly and accessible.
+### Business Analysis & Consulting
+- Enterprise transformation
+- Process optimization
+- Requirement engineering
+- Stakeholder management
+- Agile delivery
 
-### Key Features
-✅ Medicine explanation in simple language  
-✅ Generic medicine alternatives  
-✅ Drug interaction awareness  
-✅ Affordability & price comparison support  
-✅ AI-driven healthcare recommendations
+---
+
+# Featured Projects
+
+---
+
+## AI Medicine Intelligence Platform
+
+### Problem Solved
+Medicine information is often difficult for consumers to understand, compare, and trust. Finding generic alternatives, drug interactions, and affordability insights requires expert assistance.
+
+### Solution
+Built an **AI-powered medicine intelligence platform** that simplifies healthcare understanding using Generative AI.
+
+### Key Capabilities
+✔ Medicine explanation in simple language  
+✔ Generic medicine alternatives  
+✔ Drug interaction awareness  
+✔ Affordability & price comparison support  
+✔ AI-driven recommendations  
 
 ### Skills Demonstrated
 `Healthcare AI` `Product Discovery` `Business Analysis` `GenAI` `Prompt Engineering`
 
+### LinkedIn Project Showcase
+🔗 **View Project:**  
+https://www.linkedin.com/posts/contactpranjaldaware_aiproductmanagement-generativeai-healthcareai-ugcPost-7466767829548261376--y_s/
+
 ---
 
-## 2. GyanChat — AI Product Owner Bot (RAG-based Assistant)
+## GyanChat — AI Product Owner Bot (RAG-based Assistant)
 
-**Problem Solved:**  
-Product teams repeatedly answer the same stakeholder questions across PRDs, sprint notes, and business documentation.
+### Problem Solved
+Product teams repeatedly answer the same stakeholder questions across PRDs, sprint notes, and internal documentation.
 
-### What I Built
-A **RAG-powered Product Owner Assistant** that enables stakeholders to ask questions and instantly retrieve answers from product documentation.
+### Solution
+Built a **RAG-powered Product Owner Assistant** to provide contextual answers from product documentation.
 
-### Key Features
-✅ Product & sprint-related Q&A  
-✅ Context-aware responses from PRDs  
-✅ Knowledge retrieval using AI  
-✅ Stakeholder self-service model
+### Key Capabilities
+✔ Product & sprint-related Q&A  
+✔ Context-aware PRD responses  
+✔ Knowledge retrieval system  
+✔ Stakeholder self-service  
 
 ### Architecture
-- Vector Database
 - Retrieval-Augmented Generation (RAG)
-- Telegram Bot Integration
 - Product Knowledge Repository
+- Vector Database
+- Conversational Interface
 
 ### Business Value
-Reduced repetitive PM communication and demonstrated enterprise AI use cases for product operations.
+Reduced repetitive PM communication and improved information accessibility.
 
 ### Skills Demonstrated
-`AI Product Management` `RAG` `Prompt Engineering` `GenAI` `Product Thinking`
+`AI Product Management` `RAG` `Prompt Engineering` `GenAI`
+
+### LinkedIn Project Showcase
+🔗 **View Project:**  
+https://www.linkedin.com/posts/contactpranjaldaware_productmanagement-ai-buildinpublic-ugcPost-7439586880293257217-q116/
 
 ---
 
-## 3. AI-Powered Job Search Chrome Extension
+## DealScope — AI-Powered Deal Intelligence Platform
 
-**Problem Solved:**  
-Job applications are repetitive, manual, and inefficient.
+### Problem Solved
+Deal teams often struggle with fragmented information, delayed intelligence gathering, and inefficient decision support.
 
-### What I Built
-A **Chrome extension powered by AI** to streamline and optimize job searching.
+### Solution
+Built an **AI-powered Deal Intelligence platform** to centralize and simplify deal analysis.
 
-### Key Features
-✅ AI role-fit scoring  
-✅ Skill gap identification  
-✅ Tailored cover letter generation  
-✅ Job posting analysis  
-✅ Faster application workflows
+### Key Capabilities
+✔ Intelligent deal analysis  
+✔ Context-aware information retrieval  
+✔ AI-powered recommendations  
+✔ Faster decision-making workflows
+
+### Skills Demonstrated
+`AI Product Management` `RAG` `GenAI` `Strategic Thinking`
+
+### LinkedIn Project Showcase
+🔗 **View Project:**  
+https://www.linkedin.com/posts/contactpranjaldaware_aiproductmanagement-rag-ugcPost-7459479120360640512-_O4I/
+
+---
+
+## AI-Powered Job Search Chrome Extension
+
+### Problem Solved
+Manual job applications are repetitive, time-consuming, and inefficient.
+
+### Solution
+Built an **AI-powered Chrome extension** that optimizes and automates job-search workflows.
+
+### Key Capabilities
+✔ AI role-fit scoring  
+✔ Skill gap identification  
+✔ Tailored cover letter generation  
+✔ Job posting analysis  
 
 ### Business Value
-Reduced manual effort and improved role targeting efficiency.
+Improved job targeting efficiency and reduced repetitive effort.
 
 ### Skills Demonstrated
-`AI Automation` `Workflow Optimization` `Product Thinking` `Prompt Engineering`
+`AI Automation` `Workflow Optimization` `Prompt Engineering`
+
+### LinkedIn Project Showcase
+🔗 **View Project:**  
+https://www.linkedin.com/posts/contactpranjaldaware_aiproductmanagement-chromeextension-anthropicclaude-ugcPost-7450919818246995969-rNkJ/
 
 ---
 
-## 4. WhatsApp Thoughtful Reply Product Concept
+## Enterprise Digital Transformation Programs (Energy & Mobility)
 
-**Problem Solved:**  
-Messaging apps create pressure through read receipts and response expectations.
-
-### What I Designed
-A **behavioral product concept** introducing a *Thoughtful Reply Indicator* to reduce messaging anxiety.
-
-### Focus Areas
-✅ Product Sense  
-✅ UX Thinking  
-✅ Behavioral Psychology  
-✅ User-Centered Design
+### Key Contributions
+✔ Fuel retail modernization initiatives  
+✔ LNG enablement across European markets  
+✔ Site modernization programs  
+✔ Payment & dispenser integration  
+✔ Go-live readiness & rollout planning
 
 ### Skills Demonstrated
-`Product Strategy` `User Experience` `Behavioral Product Thinking`
+`Business Analysis` `Digital Transformation` `Stakeholder Management` `Agile Delivery`
 
 ---
 
-## 🧠 Core Competencies
+# Core Competencies
 
 ### Product & Business
-`Product Strategy` `Business Analysis` `Requirement Gathering` `User Stories` `Stakeholder Management` `Agile` `Digital Transformation` `Product Discovery`
+
+`Product Strategy`  
+`Business Analysis`  
+`Requirement Gathering`  
+`User Stories`  
+`Stakeholder Management`  
+`Agile Delivery`  
+`Product Discovery`  
+`Digital Transformation`
 
 ### AI & Technology
-`Generative AI` `Prompt Engineering` `AI Product Design` `Workflow Automation` `Data-Driven Decision Making`
 
-### Consulting Mindset
-`Problem Solving` `Business Process Optimization` `Strategic Thinking` `Enterprise Transformation`
+`Generative AI`  
+`Prompt Engineering`  
+`RAG`  
+`AI Product Design`  
+`Workflow Automation`  
+`Decision Intelligence`
+
+### Consulting & Leadership
+
+`Problem Solving`  
+`Strategic Thinking`  
+`Enterprise Transformation`  
+`Business Optimization`
 
 ---
 
-## ✍️ Thought Leadership
+# Thought Leadership
 
-I actively explore and share insights on:
+I actively explore and share perspectives on:
 
-- AI in Enterprise Transformation  
-- Product Management & Innovation  
-- Business Analysis Best Practices  
-- Generative AI Use Cases  
+- AI in Enterprise Transformation
+- Product Management Innovation
+- Business Analysis Best Practices
+- Generative AI Use Cases
 - Digital Transformation Strategy
 
 ---
 
-## 🌐 Connect With Me
+# Current Focus
 
-**LinkedIn:**  
-https://linkedin.com/in/pranjaldaware
-
-**Email:**  
-Daware29@gmail.com
-
----
-
-## 🎯 Current Focus
-
-- Building impactful **AI-powered products**  
-- Transitioning toward **AI + Product Leadership**  
-- Solving enterprise business problems using **GenAI**  
-- Creating practical product case studies & transformation frameworks
+- Building impactful **AI-powered enterprise products**
+- Transitioning toward **AI + Product Leadership**
+- Solving enterprise business problems through **Generative AI**
+- Creating practical product case studies and transformation frameworks
 
 ---
 
-> *“Technology creates value only when it solves meaningful business problems.”*
+# Connect With Me
+
+### LinkedIn
+**https://linkedin.com/in/pranjaldaware**
+
+### Email
+**Daware29@gmail.com**
+
+---
+
+<div align="center">
+
+### "Technology creates value only when it solves meaningful business problems."
+
+</div>
+```
+
 ```

@@ -169,51 +169,6 @@ https://www.linkedin.com/posts/contactpranjaldaware_aiproductmanagement-chromeex
 
 ---
 
-## Enterprise Digital Transformation Programs (Energy & Mobility)
-
-### Key Contributions
-✔ Fuel retail modernization initiatives  
-✔ LNG enablement across European markets  
-✔ Site modernization programs  
-✔ Payment & dispenser integration  
-✔ Go-live readiness & rollout planning
-
-### Skills Demonstrated
-`Business Analysis` `Digital Transformation` `Stakeholder Management` `Agile Delivery`
-
----
-
-# Core Competencies
-
-### Product & Business
-
-`Product Strategy`  
-`Business Analysis`  
-`Requirement Gathering`  
-`User Stories`  
-`Stakeholder Management`  
-`Agile Delivery`  
-`Product Discovery`  
-`Digital Transformation`
-
-### AI & Technology
-
-`Generative AI`  
-`Prompt Engineering`  
-`RAG`  
-`AI Product Design`  
-`Workflow Automation`  
-`Decision Intelligence`
-
-### Consulting & Leadership
-
-`Problem Solving`  
-`Strategic Thinking`  
-`Enterprise Transformation`  
-`Business Optimization`
-
----
-
 # Thought Leadership
 
 I actively explore and share perspectives on:
